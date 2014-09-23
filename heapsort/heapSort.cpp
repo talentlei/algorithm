@@ -1,3 +1,10 @@
+/**
+* Copyright 2014   
+* Developer : lei chen (chenlei0630@gmail.com)
+* Date : 09/22/2014
+*
+*/
+
 #include <iostream>
 #include <string>
 #include <vector>
